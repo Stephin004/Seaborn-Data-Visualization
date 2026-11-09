@@ -1,0 +1,13 @@
+Product_ID,Product,Category,Price
+P01,Laptop,Electronics,65000
+P02,Smartphone,Electronics,32000
+P03,Headphones,Audio,3500
+P04,Keyboard,Accessories,1800
+P05,Mouse,Accessories,900
+P06,Monitor,Electronics,14500
+P07,Smartwatch,Wearables,8500
+P08,Tablet,Electronics,28000
+P09,Backpack,Lifestyle,2200
+P10,Power Bank,Accessories,1800
+P11,Webcam,Accessories,3200
+P12,Speaker,Audio,4200
